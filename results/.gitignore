@@ -1,4 +1,0 @@
-# there's too many individual files
-# rttms have to be zipped !
-**/*.rttm
-zip_all.sh
